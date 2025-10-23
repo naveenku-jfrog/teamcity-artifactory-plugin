@@ -1,7 +1,7 @@
 ## 2.11.0 (October 23, 2025)
--  Update build info url to be compatible with the Artifact version 7+ - https://github.com/jfrog/teamcity-artifactory-plugin/pull/166
--  Upgrading to Java version 17 https://github.com/jfrog/teamcity-artifactory-plugin/pull/168
-- Changing Spring Webmvc dependencny version https://github.com/jfrog/teamcity-artifactory-plugin/pull/169
+- Bug fix - Update build info url to be compatible with the Artifact version 7+ - https://github.com/jfrog/teamcity-artifactory-plugin/pull/166
+- Upgrade to Java version 17 - https://github.com/jfrog/teamcity-artifactory-plugin/pull/168
+- Changed Spring Webmvc dependencny version https://github.com/jfrog/teamcity-artifactory-plugin/pull/169
 
 ## 2.10.2 (March 22, 2023)
 -  Improve input validation of fields in Project's Artifactory connection - https://github.com/jfrog/teamcity-artifactory-plugin/pull/138
